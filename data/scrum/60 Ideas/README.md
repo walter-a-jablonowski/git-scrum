@@ -1,0 +1,1 @@
+Just idea collection, no tasks. Organise in subfolders as needed.

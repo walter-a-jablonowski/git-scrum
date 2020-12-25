@@ -1,0 +1,31 @@
+# ------------------------------------------------------------------------------
+
+Group:      My group\My sub group        
+                                         
+Type:       Feature | Bug | Improvement  # Can be deleted in subtasks is makes no sense.
+
+CreatedBy:  waj                          
+State:      New | In Progress | Wait     # WAIT from filename has prio, State "Done" will be achieved just by moving this in done folder
+
+# ------------------------------------------------------------------------------
+
+
+# ONLY THE ASIGNEE CAN MODIFY DESC, PLEASE COMMENT YOUR WISHES
+
+Desc: |
+
+  None
+
+
+Comments:
+
+  # Use your short name (see x_config.yml) and a time stamp (latest comment above)
+
+  YY-MM-DD, SHORT_NAME, Comment: |
+
+    Dummy comment
+
+
+Done:
+
+  190101 NAME: |

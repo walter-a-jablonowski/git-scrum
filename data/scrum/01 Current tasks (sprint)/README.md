@@ -1,0 +1,1 @@
+Make a subfolder for each team member using his short name lower case.

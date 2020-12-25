@@ -1,0 +1,1 @@
+A place for team members's personal files. Make a subfolder for each team member using his short name lower case.

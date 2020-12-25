@@ -1,0 +1,15 @@
+desktop.ini
+_old_code/
+git-wiki_REDUCE/
+_removed/
+dev/
+git-wiki/
+used/
+src/vendor/
+composer.lock
+mngm/
+
+src/
+credits.md
+README_old.md
+- See also - micro-wiki.lnk
