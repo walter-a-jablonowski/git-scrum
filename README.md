@@ -2,6 +2,8 @@
 
 **Data file based SCRUM system, IDE-integrated, git is backend**
 
+CURRENTLY IN DEVELOPMENT
+
 - Put your tasks as data file in the project folder beside your sources
 - Access all your tasks directly in IDE, accessible where you work
 - One YML file per task
